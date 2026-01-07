@@ -1,0 +1,11 @@
+1. Graph theory background
+ - directed graph means that the edge goes in one direction only while undirected graphs are bidrection edges
+ - it basically represents a diagonal matrix of each node
+
+2. Linear Algebra
+ - this operation does a matrix multiplication operation on the 2 matrices
+ - This operation is used to calculate an aggregated matrix
+
+3. GNN Intuition
+ - Graph neural networks are used to create neural networks on unstructured data
+ - i dont know about this one
