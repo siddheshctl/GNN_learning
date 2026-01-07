@@ -1,0 +1,21 @@
+Part 1 Mathematics:
+
+1. yes i understand matrix multiplication it is basically a dot product of 2 matrices. I feel it cobines 2 matrices into one single matrix hence aggregating 2 matrices. i dont know what is eigenvalue/eigenvector.
+2. Yes i am comfortable with partial derivatives and chain rule. I know what are graidents they basically show how much off is an output of a vector from the actual correct answer but i have never calculated it by hands
+3. Yes i do understand concepts lke probability distribution which is where probabilities for all possible events is calculated and the sum of them is 1, bayes theorem which calculates the probablity of something happening based on something that has already happened and conditional probability which shows probability of an event based on some condition
+
+Part 2 Machine Learning:
+
+4. I have not implemented any neural networks on my own.
+5. Backpropagation takes place after one full forward pass, it backpropagates from the end to the beginning to learn how to improve the model. in Backpropagation there are following concepts too -- loss function -  this calculates the loss the model is having and optimizer is used to optimixe the model and reduce the loss.
+6. Beginner
+
+Part 3 Graphs:
+
+7. Yes i know what nodes edges adjacency matrix and degree of a node mean
+8. Yes I have implemented graph traversal algorithms like bfs dfs but i am still a bit rusty in the coding part but i understand it properly.
+
+Part 4 Programming:
+
+9. Intermediate
+10. I have not used pytorch before
