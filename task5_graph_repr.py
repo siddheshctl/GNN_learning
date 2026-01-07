@@ -19,5 +19,5 @@ print("\nDegree Matrix:")
 print(degree_matrix)
 
 x = torch.rand((4, 3))
-print("\nNode Features (x):")
+print("\nNode Features of x:")
 print(x)
