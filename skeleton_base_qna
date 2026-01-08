@@ -1,0 +1,5 @@
+1. we need both directions becuase we want to aggregate the nodes in both directons that is 1 must have info about 0 and 0 must have info about 1 too
+
+2. each node represents a join of the skeleton and each edge represents a bone
+
+3. shape of x is num of nodes, 3 where the first dimension is the number of joints and 2nd dimension is the number of axes in which the skeleton will be represented
